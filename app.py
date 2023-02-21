@@ -1,4 +1,5 @@
 # to run the app streamlit run app.py
+# to have the correct version pipreqs --encoding=utf8 --force
 
 from pathlib import Path
 
