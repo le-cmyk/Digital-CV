@@ -1,3 +1,5 @@
+# to run the app streamlit run app.py
+
 from pathlib import Path
 
 import streamlit as st
@@ -92,6 +94,7 @@ learning.
 # --- SKILLS ---
 st.write('\n')
 st.subheader("Hard Skills")
+st.write("---")
 st.write(
     """
 - 👩‍💻 Programming: Python (Scikit-learn, Pandas, Tensorflow), SQL, C#, R studio
@@ -155,7 +158,7 @@ st.write(
 # --- Leadership and activities 
 st.write('\n')
 st.subheader("Leadership & Activities")
-
+st.write("---")
 st.write(
     """
 - •  Head of the AI & Data department at Kryptosphere® (2022-2023)
