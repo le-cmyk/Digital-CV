@@ -23,8 +23,8 @@ PROFESSION = """
  **DATA SCIENTIST / ANALYST**
 """
 DESCRIPTION = """
- Looking for an internship of 5 months starting in April
-"""
+ I work with data to solve business problems or create new solutions, using tools like SQL, R, Python, machine learning, and artificial intelligence.
+ """
 
 
 EMAIL = "leo.dujourdhui@gmail.com"
@@ -33,6 +33,7 @@ SOCIAL_MEDIA = {
     "GitHub": "https://github.com/le-cmyk",
 }
 PROJECTS = {
+    "🏆 Defi Strategy":"https://kryptosphere-defi-strategy.streamlit.app/",
     "🏆 Kickstarter Dashboard": "https://leo-dujourd-hui-kickstarter-dash.streamlit.app/",
     "🏆 Prediction of the number of rented bike in seoul": "https://github.com/le-cmyk/Seoul_Bike",
     "🏆 Visualisattion of the railway system in France": "https://github.com/le-cmyk/SNCF",
