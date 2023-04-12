@@ -33,7 +33,7 @@ SOCIAL_MEDIA = {
     "GitHub": "https://github.com/le-cmyk",
 }
 PROJECTS = {
-    "🏆 Scriptaly creates Python code to import datasets":"https://kryptosphere-defi-strategy.streamlit.app/",
+    "🏆 Scriptaly creates Python code to import datasets":"https://scriptaly.streamlit.app/",
     "🏆 Defi Strategy":"https://kryptosphere-defi-strategy.streamlit.app/",
     "🏆 Kickstarter Dashboard": "https://leo-dujourd-hui-kickstarter-dash.streamlit.app/",
     "🏆 Prediction of the number of rented bike in seoul": "https://github.com/le-cmyk/Seoul_Bike",
