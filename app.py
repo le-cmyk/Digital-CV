@@ -175,6 +175,7 @@ for project, link in PROJECTS.items():
     st.write(f"[{project}]({link})")
 
 
+from new_fonctionnalite import fonction_visu
 
-
+fonction_visu()
 
