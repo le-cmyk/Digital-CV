@@ -109,6 +109,17 @@ st.subheader("Work History")
 st.write("---")
 
 # --- JOB 1
+st.write("🚧", "**Data Analyst | Safran helicopter engines – Aerospace Solutions**")
+st.write("05/2023 – 08/2023")
+st.write(
+    """
+- ► Developed an advanced alert system to optimize maintenance procedures, leveraging data-driven analysis for enhanced efficiency.
+- ► Demonstrated expertise in problem-solving, optimization, and data analysis while crafting and implementing the alert system.
+- ► Attained valuable insights through process improvement initiatives and successful collaboration across interdisciplinary teams.
+"""
+)
+
+# --- JOB 2
 st.write("🚧", "**Data Analyst | Exness – Trading Platforms**")
 st.write("09/2022 – 04/2023")
 st.write(
@@ -119,7 +130,7 @@ st.write(
 """
 )
 
-# --- JOB 2
+# --- JOB 3
 st.write('\n')
 st.write("🚧", "**Head of the AI & Data department | Kryptosphere® – Association to democratize web3**")
 st.write("09/2022 - Present")
@@ -131,7 +142,7 @@ st.write(
 )
 
 
-# --- JOB 3
+# --- JOB 4
 st.write('\n')
 st.write("🚧", "**Math and informatic teacher | Acadomia - Private lessons and tutoring**")
 st.write("11/2021 - Present")
@@ -142,7 +153,7 @@ st.write(
 """
 )
 
-# --- JOB 4
+# --- JOB 5
 st.write('\n')
 st.write("🚧", "**Landscaper | Puthod - Development of green space**")
 st.write("06/2017 - 08/2017")
