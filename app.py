@@ -113,9 +113,9 @@ st.write("🚧", "**Data Analyst | Safran helicopter engines – Aerospace Solut
 st.write("05/2023 – 08/2023")
 st.write(
     """
-- ► Developed an advanced alert system to optimize maintenance procedures, leveraging data-driven analysis for enhanced efficiency.
-- ► Demonstrated expertise in problem-solving, optimization, and data analysis while crafting and implementing the alert system.
-- ► Attained valuable insights through process improvement initiatives and successful collaboration across interdisciplinary teams.
+- ► Developed and implemented advanced correlation analysis methods to uncover key insights driving significant improvements in production efficiency.
+- ► Created comprehensive and insightful notebooks for monitoring and visualizing machine performance trends, enabling the identification of time-related machine drifts and aligning them with SAP reference time, leading to enhanced process optimization and reduced downtime.
+- ► Designed and executed cutting-edge alert notebooks to enable predictive maintenance strategies, effectively mitigating potential equipment failures and ensuring optimal production continuity, ultimately saving operational costs and enhancing overall productivity.
 """
 )
 
